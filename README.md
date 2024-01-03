@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm OMAR ABDULLAH</h1>
-<h3 align="center">Hello there, my name is Omar . I am Studying in the Faculty of Computer science and AI at Cairo University</h3>
+<h3 align="center">Hello there, my name is Omar . I am Studying in the Faculty of Computer Science and AI at Cairo University</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 I Know these language : **Cpp - Python - Java**
+- 💬 I Know these language : **Cpp - Python - Java -Csharp**
 
 - 📫 How to reach me **omar.bamusa.888@gmail.com**
 
