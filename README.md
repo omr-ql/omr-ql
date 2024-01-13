@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OMAR ABDULLAH</h1>
-<h3 align="center">Hello there, my name is Omar . I am Studying in the Faculty of Computer Science and AI at Cairo University</h3>
+<h3 align="center">Hello there, my name is Omar . I am Studying AI industry in the Faculty of Computer Science at Cairo University</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
