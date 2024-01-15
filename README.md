@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 I Know these language : **Cpp - Python - Java -Csharp**
+- 💬 I Know these language : **Cpp - Python - Java**
 
 - 📫 How to reach me **omar.bamusa.888@gmail.com**
 
