@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OMAR ABDULLAH</h1>
+<h1 align="center">Hi 👋, I'm OMR ABDULLAH</h1>
 <h3 align="center">Hello there, my name is Omar . I am Studying AI industry in the Faculty of Computer Science at Cairo University , and my goal to master all the concepts of AI and Programming in general </h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
