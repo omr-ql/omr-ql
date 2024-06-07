@@ -1,5 +1,5 @@
 <h1 align="center">My Profile </h1>
-<h3 align="center">Hello there, my name is OMR . I am Studying AI And Software Engineering in the Faculty of Computer Science at Cairo University, and my goal To master  of AI concept and Programming in general </h3>
+<h3 align="center">Hello there, my name is OMR . I am Studying AI And Software Engineering in the Faculty of Computer Science at Cairo University, and my goal To master AI concept and Programming in general</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence And Software Devolpment**
 
