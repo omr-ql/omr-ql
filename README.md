@@ -2,9 +2,13 @@
 <h3 align="center">Hello there, my name is OMR . I am studying AI And software engineering in the faculty of computer science at cairo university, and my goal to master AI concept and Programming in general</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence And Software Devolpment**
+  
 - 💬 I Know these language : **Cpp - Python - Java - Dart**
-- 💡 I Know these tecnologies and tools : **HTML - CSS - Django**
+  
+- 💡 I Know these technologies and tools : **HTML - CSS - Django**
+  
 - 📫 How to reach me **omar.bamusa.888@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/omr___ql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omr___ql" height="30" width="40" /></a>
