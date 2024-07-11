@@ -5,7 +5,7 @@
   
 - 💬 I Know these language : **Cpp - Python - Java - Dart**
   
-- 💡 I Know these technologies and tools : **HTML - CSS - Django**
+- 💡 I Know these technologies and tools : **HTML - CSS - Django - Flutter**
   
 - 📫 How to reach me **omar.bamusa.888@gmail.com**
   
