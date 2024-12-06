@@ -1,11 +1,11 @@
 <h1 align="center">My Profile </h1>
-<h3 align="center">Hello there, my name is OMR. I am studying AI And software engineering in the faculty of computer science at Cairo University, and my goal is to master AI concepts and Programming in general</h3>
+<h3 align="center">Hello there, my name is OMR. I am studying AI And software engineering in faculty of computer science at Cairo University, and my goal is to master AI concepts and Programming in general</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence And Software Engineering**
   
 - 💬 I Know these languages: **C++ - Java - Python - JavaScript - Dart**
   
-- 💡 I Know these technologies and tools : **HTML - CSS - Django - Flutter**
+- 💡 I Know these technologies and tools: **HTML - CSS - Django - Flutter - SQL - MERN Stack**
   
 - 📫 How to reach me **omar.bamusa.888@gmail.com**
   
