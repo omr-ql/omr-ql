@@ -1,11 +1,11 @@
 <h1 align="center">My Profile </h1>
-<h3 align="center">Hello there, my name is OMR. I am studying AI and software engineering in the faculty of computer science at Cairo University, and my goal is to master AI concepts and Programming in general</h3>
+<h3 align="center">Hello there, my name is OMR. I have graduated with a degree in AI and software engineering from the Faculty of Computer Science at Cairo University, and my goal is to master AI concepts and programming in general.</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence And Software Engineering**
   
-- 💬 I Know these languages: **C++ - Java - Python - JavaScript - Dart**
+- 💬 I Know these languages: **C++ - Java - Python - JavaScript - Dart - C#**
   
-- 💡 I know these technologies and tools: **HTML - CSS - Django - Flutter - SQL - MERN Stack**
+
   
 - 📫 How to reach me **omar.bamusa.888@gmail.com**
   
@@ -64,5 +64,8 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="aspnetcore" width="40" height="40"/>
   </a>
 </p>
